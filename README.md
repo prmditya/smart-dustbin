@@ -5,10 +5,15 @@ This repository contains the source code and documentation for the **Smart Dustb
 
 <div align='center' style="display:flex;">
   <img src="img/smartdustbin-img.jpeg" alt="Smart Dustbin" width="300">
-  <video width="640" height="360" controls>
-    <source src="img/sd-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+
+  <iframe width="560" height="315" 
+          src="https://youtube.com/shorts/YYmSqGCxgRM?feature=share" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+
 </div>
 
 ## Features
