@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6jvQl8-rI"
-#define BLYNK_TEMPLATE_NAME "SmartDustbin"
-#define BLYNK_AUTH_TOKEN "NfuI2JyXlHo83UfF2rj0ZpYRu25gsI35"
+#define BLYNK_TEMPLATE_ID "BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "BLYNK_AUTH_TOKEN"
 
 #include <SoftwareSerial.h>
 #include <BlynkSimpleEsp8266.h>
@@ -12,8 +12,8 @@ const int TX_PIN = D6;
 SoftwareSerial NodeMCU(RX_PIN, TX_PIN);
 
 // Set ssid dan password wifi
-char ssid[] = "Abi";
-char pass[] = "abihanif21";
+char ssid[] = "WIFI_SSID";
+char pass[] = "WIFI_PASSWORD";
 
 String data;        // Data hasil baca serial
 String gasValue;    // Data hasil parsing berupa data gas
