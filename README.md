@@ -5,9 +5,8 @@ This repository contains the source code and documentation for the **Smart Dustb
 
 <div align="center">
 
-| <img src="img/smartdustbin-img.jpeg" alt="Smart Dustbin" height="350"> | [![Watch the video](https://img.youtube.com/vi/YYmSqGCxgRM/0.jpg)](https://www.youtube.com/watch?v=YYmSqGCxgRM) |
-|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-| **Smart Dustbin Photo**                                                | **Smart Dustbin Video**                                                            |
+| <img src="img/smartdustbin-img.jpeg" alt="Smart Dustbin" width="600"> | <video width="400" src="https://github.com/user-attachments/assets/aa7754e8-67dc-4c1f-b0be-a2707cba2ff9"></video> |
+|:------------------:|:------------------:|
 
 </div>
 
