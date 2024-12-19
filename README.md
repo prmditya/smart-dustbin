@@ -3,16 +3,11 @@
 ## Overview
 This repository contains the source code and documentation for the **Smart Dustbin** project, developed as part of the Microcontroller Systems last project. The project demonstrates the functionality of a smart dustbin that integrates various sensors and components to optimize waste disposal.
 
-<div align='center' style="display:flex;">
-  <img src="img/smartdustbin-img.jpeg" alt="Smart Dustbin" width="300">
+<div align="center">
 
-  <iframe width="560" height="315" 
-          src="https://youtube.com/shorts/YYmSqGCxgRM?feature=share" 
-          title="YouTube video player" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-  </iframe>
+| <img src="img/smartdustbin-img.jpeg" alt="Smart Dustbin" height="350"> | [![Watch the video](https://img.youtube.com/vi/YYmSqGCxgRM/0.jpg)](https://www.youtube.com/watch?v=YYmSqGCxgRM) |
+|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+| **Smart Dustbin Photo**                                                | **Smart Dustbin Video**                                                            |
 
 </div>
 
